@@ -1,0 +1,324 @@
+head	1.6;
+access;
+symbols;
+locks;
+comment	@# @;
+
+
+1.6
+date	2014.02.13.23.07.52;	author -;	state -;
+branches;
+next	1.5;
+
+1.5
+date	2014.02.13.20.44.18;	author -;	state -;
+branches;
+next	1.4;
+
+1.4
+date	2014.02.13.20.43.54;	author -;	state -;
+branches;
+next	1.3;
+
+1.3
+date	2014.02.13.20.42.40;	author -;	state -;
+branches;
+next	1.2;
+
+1.2
+date	2014.02.13.19.04.03;	author -;	state -;
+branches;
+next	1.1;
+
+1.1
+date	2014.01.17.01.44.47;	author -;	state -;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.6
+log
+@-
+@
+text
+@// $Id: queue.java,v 1.1 2014-01-16 17:44:47-08 - - $
+
+import java.util.Iterator;
+import java.util.NoSuchElementException;
+
+class queue <item_t> implements Iterable <item_t> {
+
+   private class node {
+      item_t item;
+      node link;
+   }
+   private node head = null;
+   private node tail = null;
+
+   public boolean isempty () {
+      return head == null;
+   }
+
+   //insert a node onto the rear of the queue
+   public void insert (item_t newitem) {
+      node tmp = new node();
+      tmp.item = newitem;
+      if (head == null){
+         head = tmp;
+         tail = tmp;
+      }else{
+      tail.link = tmp;
+      tail = tmp;
+      }
+   }
+
+   public Iterator <item_t> iterator () {
+      return new itor ();
+   }
+
+   class itor implements Iterator <item_t> {
+      node next = head;
+      public boolean hasNext () {
+         return next != null;
+      }
+      public item_t next () {
+         if (! hasNext ()) throw new NoSuchElementException ();
+         item_t result = next.item;
+         next = next.link;
+         return result;
+      }
+      public void remove () {
+         if(! hasNext()) throw new NoSuchElementException ();
+         next.link = head;
+      }
+   }
+
+}
+@
+
+
+1.5
+log
+@-
+@
+text
+@d1 1
+a1 9
+// Patrick Russell pcrussel
+// $Id: queue.java,v 1.4 2014-02-13 12:43:54-08 - - $
+//
+// Insert and remove functions by:
+// Patrick Russell
+// 
+// Username:
+// pcrussel
+//
+d8 1
+a8 1
+   private class node{
+a10 21
+
+      //sets what the item in the node is
+      void setItem (item_t any){
+         item = any;
+      }
+
+      //returns the item in the node
+      item_t getItem (){
+         return item;
+      }
+
+      //links the node to another node
+      void setLink (node link){
+         this.link = link;
+      }
+
+      //returns the next node in the list
+      node getLink (){
+         return link;
+      }
+         
+d12 2
+d15 2
+a16 13
+   //
+   // INVARIANT:  front == null && rear == null
+   //          || front != null && rear != null
+   // In the latter case, following links from the node pointed 
+   // at by front will lead to the node pointed at by rear.
+   //
+ 
+  private node front = null;
+  private node rear = null;
+
+   //empty() tests to see if the list has any elements in it
+   public boolean empty (){
+      return front == null;
+d19 2
+a20 4
+   //pushes a value onto the rear of the queue
+   public void insert (item_t any) {
+      //node tmp is a temporary node used to store and
+      //link the values into the queue
+d22 4
+a25 9
+      tmp.setItem(any);
+      
+      //if there are no items in the list, add tmp to
+      //the list and point front and rear to it
+      if(front == null){
+         front = tmp;
+         rear  = tmp;
+      //otherwise, set the link of the rear of the list
+      //to tmp, then make rear point to tmp
+d27 2
+a28 2
+         rear.setLink(tmp);
+         rear = tmp;         
+a29 1
+      
+d32 2
+a33 2
+   public Iterator <item_t> iterator(){
+      return new itor();
+d37 2
+a38 2
+      node next = front;
+      public boolean hasNext(){
+d41 2
+a42 2
+      public item_t next(){
+         if(! hasNext()) throw new NoSuchElementException ();
+d47 1
+a47 1
+      public void remove(){
+d49 1
+a49 1
+         next = next.link;
+a51 16
+   
+   //removes and returns the item at the front of the
+   //queue
+   public item_t remove (){
+      //if the list is empty, throw an error
+      if (empty()) throw new NoSuchElementException();
+      //point the temporary node to the front of the list
+      //node tmp = front;
+      //pull the value out of the front item
+      item_t value = front.getItem();
+      //point the front to equal the next 
+      //item in the queue
+      front = front.getLink();
+      
+      return value;
+   }
+@
+
+
+1.4
+log
+@-
+@
+text
+@d2 1
+a2 1
+// $Id: queue.java,v 1.3 2014-02-13 12:42:40-08 - - $
+d61 1
+a61 1
+      node tmp = new listnode();
+@
+
+
+1.3
+log
+@-
+@
+text
+@d2 1
+a2 1
+// $Id: queue.java,v 1.2 2014-02-13 11:04:03-08 - - $
+d16 1
+a16 1
+   private class listnode{
+d49 2
+a50 2
+  private listnode front = null;
+  private listnode rear = null;
+d61 1
+a61 1
+      listnode tmp = new listnode();
+d83 1
+a83 1
+      listnode next = front;
+@
+
+
+1.2
+log
+@-
+@
+text
+@d2 1
+a2 1
+// $Id: queue.java,v 1.13 2014-02-03 18:50:42-08 - - $
+d16 1
+a16 1
+   private class node{
+d49 2
+a50 2
+  private node front = null;
+  private node rear = null;
+d61 1
+a61 1
+      node tmp = new node();
+d83 1
+a83 1
+      node next = front;
+@
+
+
+1.1
+log
+@-
+@
+text
+@d1 9
+a9 1
+// $Id: queue.java,v 1.1 2011-01-28 19:52:24-08 - - $
+d16 1
+a16 1
+   private class node {
+d19 21
+a40 2
+   private node head = null;
+   private node tail = null;
+d42 13
+a54 2
+   public boolean isempty () {
+      throw new RuntimeException ("Replace this with working code");
+d57 19
+a75 2
+   public void insert (item_t newitem) {
+      throw new RuntimeException ("Replace this with working code");
+d78 2
+a79 2
+   public Iterator <item_t> iterator () {
+      return new itor ();
+d83 2
+a84 2
+      node next = head;
+      public boolean hasNext () {
+d87 2
+a88 2
+      public item_t next () {
+         if (! hasNext ()) throw new NoSuchElementException ();
+d93 3
+a95 2
+      public void remove () {
+         throw new UnsupportedOperationException ();
+d98 16
+@

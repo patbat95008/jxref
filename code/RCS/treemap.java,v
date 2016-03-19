@@ -1,0 +1,1435 @@
+head	1.50;
+access;
+symbols;
+locks;
+comment	@# @;
+
+
+1.50
+date	2014.02.15.21.43.27;	author -;	state -;
+branches;
+next	1.49;
+
+1.49
+date	2014.02.15.21.12.08;	author -;	state -;
+branches;
+next	1.48;
+
+1.48
+date	2014.02.15.20.24.37;	author -;	state -;
+branches;
+next	1.47;
+
+1.47
+date	2014.02.15.20.19.56;	author -;	state -;
+branches;
+next	1.46;
+
+1.46
+date	2014.02.15.18.53.40;	author -;	state -;
+branches;
+next	1.45;
+
+1.45
+date	2014.02.15.18.52.54;	author -;	state -;
+branches;
+next	1.44;
+
+1.44
+date	2014.02.15.18.52.28;	author -;	state -;
+branches;
+next	1.43;
+
+1.43
+date	2014.02.15.18.49.09;	author -;	state -;
+branches;
+next	1.42;
+
+1.42
+date	2014.02.15.18.48.49;	author -;	state -;
+branches;
+next	1.41;
+
+1.41
+date	2014.02.15.18.41.55;	author -;	state -;
+branches;
+next	1.40;
+
+1.40
+date	2014.02.15.18.39.48;	author -;	state -;
+branches;
+next	1.39;
+
+1.39
+date	2014.02.15.18.31.39;	author -;	state -;
+branches;
+next	1.38;
+
+1.38
+date	2014.02.15.18.31.20;	author -;	state -;
+branches;
+next	1.37;
+
+1.37
+date	2014.02.15.06.12.44;	author -;	state -;
+branches;
+next	1.36;
+
+1.36
+date	2014.02.15.06.09.22;	author -;	state -;
+branches;
+next	1.35;
+
+1.35
+date	2014.02.15.06.07.18;	author -;	state -;
+branches;
+next	1.34;
+
+1.34
+date	2014.02.15.06.06.08;	author -;	state -;
+branches;
+next	1.33;
+
+1.33
+date	2014.02.14.18.43.21;	author -;	state -;
+branches;
+next	1.32;
+
+1.32
+date	2014.02.14.18.42.37;	author -;	state -;
+branches;
+next	1.31;
+
+1.31
+date	2014.02.14.18.41.44;	author -;	state -;
+branches;
+next	1.30;
+
+1.30
+date	2014.02.14.06.19.13;	author -;	state -;
+branches;
+next	1.29;
+
+1.29
+date	2014.02.14.06.17.58;	author -;	state -;
+branches;
+next	1.28;
+
+1.28
+date	2014.02.14.06.16.11;	author -;	state -;
+branches;
+next	1.27;
+
+1.27
+date	2014.02.14.06.15.07;	author -;	state -;
+branches;
+next	1.26;
+
+1.26
+date	2014.02.14.03.52.36;	author -;	state -;
+branches;
+next	1.25;
+
+1.25
+date	2014.02.14.03.04.46;	author -;	state -;
+branches;
+next	1.24;
+
+1.24
+date	2014.02.14.02.46.31;	author -;	state -;
+branches;
+next	1.23;
+
+1.23
+date	2014.02.14.02.45.04;	author -;	state -;
+branches;
+next	1.22;
+
+1.22
+date	2014.02.14.02.39.44;	author -;	state -;
+branches;
+next	1.21;
+
+1.21
+date	2014.02.14.02.34.15;	author -;	state -;
+branches;
+next	1.20;
+
+1.20
+date	2014.02.14.02.32.03;	author -;	state -;
+branches;
+next	1.19;
+
+1.19
+date	2014.02.13.23.21.22;	author -;	state -;
+branches;
+next	1.18;
+
+1.18
+date	2014.02.13.22.54.52;	author -;	state -;
+branches;
+next	1.17;
+
+1.17
+date	2014.02.13.22.38.21;	author -;	state -;
+branches;
+next	1.16;
+
+1.16
+date	2014.02.13.22.37.48;	author -;	state -;
+branches;
+next	1.15;
+
+1.15
+date	2014.02.13.21.45.32;	author -;	state -;
+branches;
+next	1.14;
+
+1.14
+date	2014.02.13.21.38.29;	author -;	state -;
+branches;
+next	1.13;
+
+1.13
+date	2014.02.13.21.32.31;	author -;	state -;
+branches;
+next	1.12;
+
+1.12
+date	2014.02.13.20.59.27;	author -;	state -;
+branches;
+next	1.11;
+
+1.11
+date	2014.02.13.20.58.53;	author -;	state -;
+branches;
+next	1.10;
+
+1.10
+date	2014.02.13.20.58.14;	author -;	state -;
+branches;
+next	1.9;
+
+1.9
+date	2014.02.13.20.28.10;	author -;	state -;
+branches;
+next	1.8;
+
+1.8
+date	2014.02.13.18.23.12;	author -;	state -;
+branches;
+next	1.7;
+
+1.7
+date	2014.02.13.18.22.58;	author -;	state -;
+branches;
+next	1.6;
+
+1.6
+date	2014.02.13.18.22.27;	author -;	state -;
+branches;
+next	1.5;
+
+1.5
+date	2014.02.13.18.20.58;	author -;	state -;
+branches;
+next	1.4;
+
+1.4
+date	2014.02.13.18.18.55;	author -;	state -;
+branches;
+next	1.3;
+
+1.3
+date	2014.02.13.03.25.41;	author -;	state -;
+branches;
+next	1.2;
+
+1.2
+date	2014.02.13.00.03.21;	author -;	state -;
+branches;
+next	1.1;
+
+1.1
+date	2014.01.17.01.44.47;	author -;	state -;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.50
+log
+@-
+@
+text
+@// Patrick Russell pcrussel
+// $Id: treemap.java,v 1.49 2014-02-15 13:12:08-08 - - $
+
+import static java.lang.System.*;
+
+class treemap <key_t extends Comparable <key_t>, value_t> {
+
+   private class node {
+      key_t key;
+      value_t value;
+      node left;
+      node right;
+   }
+   private node root;
+
+   //prints out the tree
+   private void debug_dump_rec (node tree, int depth) {
+      if(tree == null) return;
+      depth++;
+      debug_dump_rec(tree.left, depth);
+      out.printf("%"+depth*2+"S %2d %s %s %n", "", depth, tree.key, tree);
+      //out.printf("node is: %s\n", tree.key);
+      debug_dump_rec(tree.right, depth);
+   }
+
+   //visits the nodes in order, and prints the nodes
+   private void do_visit_rec (visitor <key_t, value_t> visit_fn,
+                              node tree) {
+      if(tree == null) return;
+      do_visit_rec(visit_fn, tree.left);
+      visit_fn.visit(tree.key, tree.value);
+      //out.printf("%s%n", tree.key);
+      do_visit_rec(visit_fn, tree.right);
+   }
+
+   //gets the value from the specified node
+   public value_t get (key_t key) {
+     return null;
+   }
+
+   //Searches for the key. If key is found, value is swapped 
+   //and the old value is returned. If no match is found, 
+   //then a new node is created.
+   public value_t put (key_t key, value_t value, boolean ignoreCaps) {
+     node tmp = new node();
+     tmp.key = key;
+     tmp.value = value;
+     value_t returnVal = null;
+     if (root == null) root = tmp;
+
+     root = rec_search(root, key, value, ignoreCaps);
+     
+
+     if(returnVal == tmp.value) return null;
+     else return returnVal;
+   }
+
+   //searches for the key and returns the node, if found
+   //returns null if the key wasn't found
+   public node rec_search(node root, key_t key, value_t value, 
+                          boolean ignoreCaps){
+     int cmp;
+     String strKey = (String) key;
+     if (root == null) {
+        node tmp = new node();
+        tmp.key = key;
+        tmp.value = value;
+        return tmp;
+     }
+     String strCompare = (String) root.key;
+     if(ignoreCaps) cmp = strKey.compareToIgnoreCase(strCompare);
+     else cmp = key.compareTo(root.key);
+
+     if (cmp<0){
+        root.left = rec_search(root.left, key, value,
+                               ignoreCaps);
+     }else if (cmp>0) {
+        root.right = rec_search(root.right, key, value,
+                                ignoreCaps);
+     }else{
+        return root;
+     }
+     return root;      
+   }
+
+   //adds the node based on its lexicographic order to the 
+   //other nodes in the list
+   public void rec_add(node parent, node child, node addThis){
+      if(child == null){
+         child = addThis;
+      }
+      
+      //compares lexicographic order of the tree with
+      //the node supplied. If its order is positive,
+      //the node heads left. If negitive, heads right
+      if(child.key.compareTo(addThis.key) > 0){
+         rec_add (child, child.left, addThis);
+      }else if (child.key.compareTo(addThis.key) < 0){
+         rec_add (child, child.right, addThis);
+      }else if (child.key.compareTo(addThis.key) == 0){
+         child = addThis;
+      }
+      
+   }
+
+   //calls the debug print
+   public void debug_dump () {
+      debug_dump_rec (root, 0);
+   }
+
+   //calls the visit function
+   public void do_visit (visitor <key_t, value_t> visit_fn) {
+      do_visit_rec (visit_fn, root);
+   }
+
+}
+@
+
+
+1.49
+log
+@-
+@
+text
+@d2 1
+a2 1
+// $Id: treemap.java,v 1.48 2014-02-15 12:24:37-08 - - $
+d44 1
+a44 1
+   public value_t put (key_t key, value_t value) {
+d51 2
+a52 2
+     root = rec_search(root, key, value);
+     root.value.insert(value);
+d60 4
+a63 1
+   public node rec_search(node root, key_t key, value_t value){
+d70 4
+a73 1
+     int cmp = key.compareTo(root.key);
+d75 2
+a76 1
+        root.left = rec_search(root.left, key, value);
+d78 2
+a79 1
+        root.right = rec_search(root.right, key, value);
+@
+
+
+1.48
+log
+@-
+@
+text
+@d2 1
+a2 1
+// $Id: treemap.java,v 1.47 2014-02-15 12:19:56-08 - - $
+d52 1
+a52 1
+     returnVal = root.value;
+@
+
+
+1.47
+log
+@-
+@
+text
+@d2 1
+a2 1
+// $Id: treemap.java,v 1.46 2014-02-15 10:53:40-08 - - $
+d31 1
+@
+
+
+1.46
+log
+@-
+@
+text
+@d2 1
+a2 1
+// $Id: treemap.java,v 1.45 2014-02-15 10:52:54-08 - - $
+d31 1
+a31 1
+      out.printf("%s%n", tree.key);
+@
+
+
+1.45
+log
+@-
+@
+text
+@d2 1
+a2 1
+// $Id: treemap.java,v 1.44 2014-02-15 10:52:28-08 - - $
+d31 1
+a31 1
+      out.printf("%s%n", tree.value);
+@
+
+
+1.44
+log
+@-
+@
+text
+@d2 1
+a2 1
+// $Id: treemap.java,v 1.43 2014-02-15 10:49:09-08 - - $
+d37 1
+a37 1
+     
+@
+
+
+1.43
+log
+@-
+@
+text
+@d2 1
+a2 1
+// $Id: treemap.java,v 1.42 2014-02-15 10:48:49-08 - - $
+d30 1
+a30 1
+      do_visit_rec(visit_fm, tree.left);
+d32 1
+a32 1
+      do_visit_rec(visit_fm, tree.right);
+d35 1
+d37 1
+a37 2
+     value_t retrunVal = rec_search.value;
+     return returnVal;
+@
+
+
+1.42
+log
+@-
+@
+text
+@d2 1
+a2 1
+// $Id: treemap.java,v 1.41 2014-02-15 10:41:55-08 - - $
+d31 1
+a31 1
+      out.printf("%s%n" tree.value);
+@
+
+
+1.41
+log
+@-
+@
+text
+@d2 1
+a2 1
+// $Id: treemap.java,v 1.40 2014-02-15 10:39:48-08 - - $
+d29 4
+a32 1
+      
+d36 2
+a37 1
+      return null;
+@
+
+
+1.40
+log
+@-
+@
+text
+@d2 1
+a2 1
+// $Id: treemap.java,v 1.39 2014-02-15 10:31:39-08 - - $
+d19 2
+a20 1
+      debug_dump_rec(tree.right, depth++);
+d23 1
+a23 1
+      debug_dump_rec(tree.left, depth++);
+@
+
+
+1.39
+log
+@-
+@
+text
+@d2 1
+a2 1
+// $Id: treemap.java,v 1.38 2014-02-15 10:31:20-08 - - $
+d19 3
+a22 3
+      out.printf("%"+depth*2+"S%2d%s%s%n", "", depth, tree.key, tree);
+      //out.printf("node is: %s\n", tree.key);
+      debug_dump_rec(tree.right, depth++);
+@
+
+
+1.38
+log
+@-
+@
+text
+@d2 1
+a2 1
+// $Id: treemap.java,v 1.37 2014-02-14 22:12:44-08 - - $
+d28 1
+a28 1
+      return null;
+@
+
+
+1.37
+log
+@-
+@
+text
+@d2 1
+a2 1
+// $Id: treemap.java,v 1.36 2014-02-14 22:09:22-08 - - $
+d20 2
+a21 2
+      out.printf("%"+depth*2+"S%2d", "", depth);
+      out.printf("node is: %s\n", tree.key);
+d25 1
+d28 1
+a28 1
+      throw new UnsupportedOperationException ();
+d32 1
+a32 1
+      throw new UnsupportedOperationException ();
+@
+
+
+1.36
+log
+@-
+@
+text
+@d2 1
+a2 1
+// $Id: treemap.java,v 1.35 2014-02-14 22:07:18-08 - - $
+a22 1
+      //throw new UnsupportedOperationException ();
+@
+
+
+1.35
+log
+@-
+@
+text
+@d2 1
+a2 1
+// $Id: treemap.java,v 1.34 2014-02-14 22:06:08-08 - - $
+d20 2
+a21 2
+      out.printf("%"+depth*2+"S%2d%n", "", depth);
+      out.printf("node is: %s", tree.key);
+@
+
+
+1.34
+log
+@-
+@
+text
+@d2 1
+a2 1
+// $Id: treemap.java,v 1.33 2014-02-14 10:43:21-08 - - $
+d21 1
+a21 1
+      out.printf("node is: %s\n", tree);
+@
+
+
+1.33
+log
+@-
+@
+text
+@d2 1
+a2 1
+// $Id: treemap.java,v 1.32 2014-02-14 10:42:37-08 - - $
+a18 2
+      out.printf("recusive debug called\n");
+      out.printf("node is: %s", tree);
+d21 1
+@
+
+
+1.32
+log
+@-
+@
+text
+@d2 1
+a2 1
+// $Id: treemap.java,v 1.31 2014-02-14 10:41:44-08 - - $
+d70 1
+a70 1
+     //return root;      
+@
+
+
+1.31
+log
+@-
+@
+text
+@d2 1
+a2 1
+// $Id: treemap.java,v 1.30 2014-02-13 22:19:13-08 - - $
+d47 1
+a47 1
+     returnVal = root.val;
+d66 1
+a66 1
+        root.right = reC_search(root.right, key, value);
+@
+
+
+1.30
+log
+@-
+@
+text
+@d2 1
+a2 1
+// $Id: treemap.java,v 1.29 2014-02-13 22:17:58-08 - - $
+d46 2
+a47 6
+     tmp = rec_search(root, key, value);
+     returnVal = tmp.value;
+     
+     if (returnVal == null){
+        rec_add(null, root, tmp);
+     }
+d49 2
+a50 2
+     return returnVal; 
+     // throw new UnsupportedOperationException ();
+d56 15
+a70 10
+      node left;
+      node right;
+      value_t oldVal;
+      if(root == null) return null;
+      left = rec_search(root.left, key, value);
+      if (key.compareTo(root.key) == 0){
+         return root;
+      }
+      right = rec_search(root.right, key, value);
+      return root;      
+@
+
+
+1.29
+log
+@-
+@
+text
+@d2 1
+a2 1
+// $Id: treemap.java,v 1.28 2014-02-13 22:16:11-08 - - $
+d40 1
+a40 1
+     node tmp;
+@
+
+
+1.28
+log
+@-
+@
+text
+@d2 1
+a2 1
+// $Id: treemap.java,v 1.27 2014-02-13 22:15:07-08 - - $
+d47 1
+a47 1
+     returnVal = tmp.val;
+d75 2
+a76 2
+      if(tree == null){
+         tree = addThis;
+d89 1
+a89 3
+      if (tree == null){
+         tree  = addThis;
+      }
+@
+
+
+1.27
+log
+@-
+@
+text
+@d2 1
+a2 1
+// $Id: treemap.java,v 1.26 2014-02-13 19:52:36-08 - - $
+d69 1
+a69 2
+      return root;
+      }
+@
+
+
+1.26
+log
+@-
+@
+text
+@d2 1
+a2 1
+// $Id: treemap.java,v 1.25 2014-02-13 19:04:46-08 - - $
+d40 1
+a40 1
+     node tmp = new node();
+a42 1
+     value_t found = null;
+d44 4
+d49 2
+a50 4
+     //if the root is null, replace it with the new node
+     if(root == null){
+        root = tmp;
+        return null;
+d52 1
+a52 14
+     //found is the result of a recursive search
+     found = rec_search(root.left, key, value);
+     //found is either null if nothing's found,
+     //or not null, in which case the values 
+     //are swapped
+     if(found != null){
+        returnVal = found;
+     }else{
+     //is equal to null, it hasn't found the thing
+     //Then add it to the map
+       rec_add(root, tmp); 
+     }
+     found = rec_search(root.right, key, value);
+     //found = rec_search(root.left, key, value);
+d59 3
+a61 3
+   public value_t rec_search(node root, key_t key, value_t value){
+      value_t left;
+      value_t right;
+a63 1
+
+d66 1
+a66 3
+         oldVal = root.value;
+         root.value = value;
+         return oldVal;
+d69 1
+a69 7
+
+      if(left != null){
+         return left;
+      }else if(right != null){
+         return right;
+      }else{
+         return null;
+d75 1
+a75 1
+   public void rec_add(node tree, node addThis){
+a78 2
+      String parentKey = (String)tree.key;
+      String childKey = (String)addThis.key;
+d83 6
+a88 7
+      //
+      //NOTE: the compareto function shouldn't equal zero!
+      //that's what the initial search is for.
+      if(parentKey.compareTo(childKey) > 0){
+         rec_add (tree.left, addThis);
+      }else if (parentKey.compareTo(childKey) < 0){
+         rec_add (tree.right, addThis);
+a89 1
+
+d92 1
+a92 5
+      }/*else if(tree.left == null){
+         tree.left = addThis;
+      }else if(tree.right == null){
+         tree.right = addThis;
+      }*/
+@
+
+
+1.25
+log
+@-
+@
+text
+@d2 1
+a2 1
+// $Id: treemap.java,v 1.24 2014-02-13 18:46:31-08 - - $
+d97 3
+@
+
+
+1.24
+log
+@-
+@
+text
+@d2 1
+a2 1
+// $Id: treemap.java,v 1.23 2014-02-13 18:45:04-08 - - $
+d57 1
+a57 1
+        returnVal = found.value;
+d72 2
+a73 2
+      node left;
+      node right;
+@
+
+
+1.23
+log
+@-
+@
+text
+@d2 1
+a2 1
+// $Id: treemap.java,v 1.22 2014-02-13 18:39:44-08 - - $
+d71 1
+a71 1
+   public node rec_search(node root, key_t key, value_t value){
+@
+
+
+1.22
+log
+@-
+@
+text
+@d2 1
+a2 1
+// $Id: treemap.java,v 1.21 2014-02-13 18:34:15-08 - - $
+d43 1
+a43 1
+     node found = null;
+a57 1
+        found.value = value;
+d61 1
+a61 1
+       rec_add(root, found); 
+d74 1
+d76 1
+d79 3
+a81 1
+         return root;
+@
+
+
+1.21
+log
+@-
+@
+text
+@d2 1
+a2 1
+// $Id: treemap.java,v 1.20 2014-02-13 18:32:03-08 - - $
+a45 1
+     found = rec_search(root.left, key, value);
+d52 1
+a52 1
+     found = rec_search(root.right, key, value);
+d64 2
+a65 1
+     found = rec_search(root.left, key, value);
+@
+
+
+1.20
+log
+@-
+@
+text
+@d2 1
+a2 1
+// $Id: treemap.java,v 1.19 2014-02-13 15:21:22-08 - - $
+d104 1
+a104 1
+         rec_add (lower, child.left, addThis);
+d106 1
+a106 1
+         rec_add (lower, child.right, addThis);
+d111 1
+a111 1
+      }else if(child.left == null){
+d113 1
+a113 1
+      }else if(child.right == null){
+d115 1
+a115 1
+      }
+@
+
+
+1.19
+log
+@-
+@
+text
+@d2 1
+a2 1
+// $Id: treemap.java,v 1.18 2014-02-13 14:54:52-08 - - $
+d19 2
+a20 1
+      out.printf("recusive debug called");
+d40 8
+a48 3
+        node tmp = new node();
+        tmp.value = value;
+        tmp.key = key;
+d52 15
+a66 2
+     
+     return null; 
+d91 27
+@
+
+
+1.18
+log
+@-
+@
+text
+@d2 1
+a2 1
+// $Id: treemap.java,v 1.17 2014-02-13 14:38:21-08 - - $
+d21 1
+a21 1
+      out.printf("%"+depth*2+"S%2d%s%s%s%n", "", depth);
+@
+
+
+1.17
+log
+@-
+@
+text
+@d2 1
+a2 1
+// $Id: treemap.java,v 1.16 2014-02-13 14:37:48-08 - - $
+d18 6
+a23 1
+      throw new UnsupportedOperationException ();
+d51 21
+@
+
+
+1.16
+log
+@-
+@
+text
+@d2 1
+a2 1
+// $Id: treemap.java,v 1.1 2014-01-16 17:44:47-08 - - $
+d42 1
+a42 1
+     
+@
+
+
+1.15
+log
+@-
+@
+text
+@d2 1
+a2 10
+// 
+// Name:
+//   treemap
+//
+// Synopsis:
+//   unbalanced binary tree for jxref.java
+//
+//
+// $Id: treemap.java,v 1.14 2014-02-13 13:38:29-08 - - $
+//
+a12 36
+
+      //get functions
+      value_t getValue(){
+         return value;
+      }
+
+      key_t getKey(){
+         return key;
+      }
+
+      node getLeft(){
+         return left;
+      }
+
+      node getRight(){
+         return right;
+      }
+
+      //set functions
+      void setNode(key_t key, value_t value){
+         this.key = key;
+         this.value = value;
+      }
+
+      void setValue(value_t value){
+          this.value = value;
+      }
+
+      void setLeft(node newLeft){
+         left = newLeft;
+      }
+
+      void setRight(node newRight){
+         right = newRight;
+      }
+
+d14 1
+a14 1
+   private node root = null;
+d16 1
+a16 5
+   public node getRoot(){
+      return root;
+   }
+
+   //debug dump that prints out the tree
+d18 1
+a18 6
+      out.printf("Tree is: %s", tree);
+      if(tree == null) return;
+      debug_dump_rec(tree.getLeft(), depth++);
+      out.printf("%"+depth*2+"S%2d%s%s%s%n", "", depth);
+      debug_dump_rec(tree.getRight(), depth++);
+      //throw new UnsupportedOperationException ();
+a20 1
+   //adds the value node to the tree
+a25 1
+   //gets the desired value fron the tree if found
+d30 3
+a32 4
+   //visits the node and finds a value, if it finds it, it is
+   //replaced and the old value is returned. Otherwise,
+   //a new leaf of the tree is made, and the value
+   //attached to it.
+d34 10
+a43 67
+      node tmp = new node();
+      tmp.setNode(key, value);
+      value_t found;
+      String sKey = (String)key;
+      String sCompare = null;
+      if (root != null){
+         sCompare = (String)root.getKey();
+      }
+      //if the root is null, return null
+      if (root == null){
+        found = makeNewNode(key, value);
+        return found;
+      }
+      if(root.getLeft() != null){
+         root.getLeft().put(key, value);
+      }
+      //if the key matches, swap the values in the node 
+      //and return the old value
+
+      if (sKey.compareTo(sCompare) == 0 && found == null){
+        found = root.getValue();
+        root.setValue(value);
+        return found;
+      }
+
+      if(root.getRight() != null){
+         put(key, value);
+      }
+      //if the key is not found, set an empty leg of the 
+      //tree to be the value
+      if (found == null){
+      /*   if (root == null){
+           root = tmp;
+         }else if (root.getLeft() == null && 
+                   root.getRight() == null){
+           root.setRight(tmp);
+           return null;
+         }else if (root.getRight == null){
+           root.setRight(tmp);
+           return null;
+         }else if (root.getLeft == null){
+           root.setLeft(tmp);
+           return null;
+         }else{
+      */
+         found = makeNewNode(root, key, value);
+      }
+      return found;
+      //throw new UnsupportedOperationException(); 
+   }
+
+   public value_t makeNewNode(node root, key_t key, value_t value){
+      node tmp = new node();
+      tmp.setNode(key, value);
+      if (root == null){
+         root = tmp;
+         return null;
+      }else if(root.getLeft() == null){
+         root.setLeft(tmp);
+         return null;
+      }else if(root.getRight() == null){
+         root.setRight(tmp);
+         return null;
+      }else{
+         makeNewNode(root.right, key, value);
+      }
+      return null;
+d46 1
+a46 1
+   //dumps the data fro the node
+a47 1
+      out.printf("debug dump was called");
+d51 1
+a51 1
+   //called if the program is not in debug mode
+@
+
+
+1.14
+log
+@-
+@
+text
+@d10 1
+a10 1
+// $Id: treemap.java,v 1.13 2014-02-13 13:32:31-08 - - $
+d90 1
+a90 1
+   public value_t put (node root, key_t key, value_t value) {
+d101 5
+a105 2
+        found = makeNewNode(root, key, value);
+        return null;
+a106 2
+      
+      found = put(root.getLeft(), key, value);
+d109 1
+a114 1
+      found = put(root.getRight(), key, value);
+d116 3
+@
+
+
+1.13
+log
+@-
+@
+text
+@d10 1
+a10 1
+// $Id: treemap.java,v 1.12 2014-02-13 12:59:27-08 - - $
+d67 1
+@
+
+
+1.12
+log
+@-
+@
+text
+@d10 1
+a10 1
+// $Id: treemap.java,v 1.11 2014-02-13 12:58:53-08 - - $
+d157 1
+@
+
+
+1.11
+log
+@-
+@
+text
+@d10 1
+a10 1
+// $Id: treemap.java,v 1.10 2014-02-13 12:58:14-08 - - $
+d94 1
+d96 1
+a96 1
+         String sCompare = (String)root.getKey();
+@
+
+
+1.10
+log
+@-
+@
+text
+@d10 1
+a10 1
+// $Id: treemap.java,v 1.9 2014-02-13 12:28:10-08 - - $
+d94 3
+a96 1
+      if(root != null) String sCompare = (String)root.getKey();
+@
+
+
+1.9
+log
+@-
+@
+text
+@d10 1
+a10 1
+// $Id: treemap.java,v 1.8 2014-02-13 10:23:12-08 - - $
+d94 1
+a94 1
+      String sCompare = (String)root.getKey();
+@
+
+
+1.8
+log
+@-
+@
+text
+@d10 1
+a10 1
+// $Id: treemap.java,v 1.7 2014-02-13 10:22:58-08 - - $
+d61 4
+d97 1
+a97 1
+        //root = tmp;
+@
+
+
+1.7
+log
+@-
+@
+text
+@d10 1
+a10 1
+// $Id: treemap.java,v 1.6 2014-02-13 10:22:27-08 - - $
+d145 1
+a145 1
+      return null
+@
+
+
+1.6
+log
+@-
+@
+text
+@d10 1
+a10 1
+// $Id: treemap.java,v 1.5 2014-02-13 10:20:58-08 - - $
+d145 1
+@
+
+
+1.5
+log
+@-
+@
+text
+@d10 1
+a10 1
+// $Id: treemap.java,v 1.4 2014-02-13 10:18:55-08 - - $
+d86 1
+a86 1
+      node tmp;
+d131 1
+a131 1
+      node tmp;
+@
+
+
+1.4
+log
+@-
+@
+text
+@d10 1
+a10 1
+// $Id: treemap.java,v 1.3 2014-02-12 19:25:41-08 - - $
+d100 1
+a100 1
+      if (sKey.compareto(sCompare) == 0 && found == null){
+@
+
+
+1.3
+log
+@-
+@
+text
+@d10 1
+a10 1
+// $Id: treemap.java,v 1.2 2014-02-12 16:03:21-08 - - $
+d46 4
+d59 1
+a59 1
+   private node root;
+d63 5
+a67 1
+      throw new UnsupportedOperationException ();
+d85 60
+a144 2
+   public value_t put (key_t key, value_t value) {
+      throw new UnsupportedOperationException();  
+@
+
+
+1.2
+log
+@-
+@
+text
+@d10 1
+a10 1
+// $Id: treemap.java,v 1.1 2014-01-16 17:44:47-08 - - $
+d62 1
+a62 1
+   //visits the node and finds a value
+d68 1
+a68 1
+   //gets the desired value fron the tree
+d73 4
+a76 1
+   //adds the value node to the tree
+d78 1
+a78 1
+      throw new UnsupportedOperationException ();
+d86 1
+a86 1
+   //
+@
+
+
+1.1
+log
+@-
+@
+text
+@d1 11
+a11 1
+// $Id: treemap.java,v 1.1 2011-01-28 19:52:24-08 - - $
+d22 32
+d57 1
+d62 1
+d68 1
+d73 1
+d78 1
+d83 1
+@

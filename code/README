@@ -1,0 +1,19 @@
+Patrick Russell
+
+Readme for jxref
+
+NAME:
+   jxref
+
+USAGE:
+   jxref [-df] [filename...]
+
+SYNOPSIS:
+   Prints out words in lexicographic order
+
+OPTIONS:
+   -d prints in debug form
+   
+   -f scanner ignores case and does things alphabetically
+
+
